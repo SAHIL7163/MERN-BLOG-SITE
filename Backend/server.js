@@ -59,6 +59,7 @@ app.get('/old-page(.html)?',(req,res)=>
 /* app.use('/' , express.static(path.join(__dirname,'public')));
 app.use('/subdir',express.static(path.join(__dirname,'public')));
 app.use('/employee' , express.static(path.join(__dirname,'public'))); */
+if (process.env.NODE_ENV === 'production') {
 app.use('/public' , express.static(path.join(__dirname,'public')));
 
 
@@ -77,7 +78,7 @@ app.use(errorhandler);
 //app.use(verifyJWT);
 //app.use('/users', require('./router/api/users'));
 //app.use('/employees',require('./router/api/employees'));  
-
+}
 
  mongoose.connection.once('open', () => {
     console.log('Connected to MongoDB');
