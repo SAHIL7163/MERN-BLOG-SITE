@@ -1,6 +1,6 @@
 Title: MERN Blogging Platform
 
-Description:
+**Description:**
 Welcome to our MERN (MongoDB, Express.js, React.js, Node.js) powered blogging platform! This platform provides a seamless experience for both readers and contributors. With robust authentication and authorization mechanisms, it ensures secure access while offering features like persistent login sessions, responsive design, and efficient state management using React Context API. Users can register and log in to explore a rich collection of blog posts. Editors have the privilege to enhance existing content, while admins hold the power to publish, update, and delete blog posts.
 
  ** Key Features: **
@@ -14,9 +14,9 @@ Token Management: Axios interceptors handle token-based authentication, providin
 File Uploads: Multer integration facilitates hassle-free file uploads, enriching blog posts with multimedia content.
 Responsive Design: Our platform caters to users across all devices, ensuring a consistent and engaging experience.
 Contributor-Friendly: We welcome contributions from the community. Fork the repository, make enhancements, and submit pull requests to improve the platform further.
-MIT License: This project is open-source and licensed under the MIT License, encouraging collaboration and innovation.
-Installation:
 
+
+** Installation:**
 Clone the repository: git clone <repository-url>
 Navigate to the project directory: cd <project-folder>
 Install dependencies:
@@ -28,8 +28,8 @@ Start the backend server:
 In the server directory: npm run dev
 Start the frontend development server:
 In the client directory: npm start
-Usage:
 
+**Usage**:
 Register an account or log in if already registered.
 Explore a curated selection of blog posts.
 Depending on your role:
