@@ -1,0 +1,36 @@
+2023 12 09	15:22:26	ba2e223a-b038-4399-a7eb-b800c3f66ff4	next undefined 
+2023 12 09	15:22:37	6d0d0da2-e89d-4d47-b68e-4cd14a51a890	next undefined 
+2023 12 09	20:27:07	3d0a189c-ff6a-42aa-9e11-66ceedf3ff92	next undefined 
+2023 12 09	20:27:18	19b3b5db-54ff-44f9-989d-e5d320034879	next undefined 
+2023 12 09	20:29:19	860a096b-4896-4c31-8fe1-50b17c78ebe4	next undefined 
+2023 12 09	20:29:51	ce613295-10b4-460a-aeef-846c1ff8299a	next undefined 
+2023 12 09	20:30:42	f4fe38ee-39cd-4ab8-8943-58c9a5a9d608	next undefined 
+2023 12 09	20:31:48	591eaae7-878c-41d5-8bb7-d19f9ffa9ffb	next undefined 
+2023 12 09	20:41:46	6563d4a5-26b7-4fe4-8f34-889bf4165c22	next undefined 
+2023 12 09	20:41:52	e7843848-2594-4895-84b4-535f4dfd696d	next undefined 
+2023 12 09	20:41:59	40ae9c01-516d-4a3f-81a6-6c3fc2e6b887	next undefined 
+2023 12 09	20:43:40	1c7205f5-f2e0-4d61-8265-66bc423ed297	next undefined 
+2023 12 09	20:44:43	e3968407-42dd-4d5b-b97f-7bad32a5bd51	next undefined 
+2023 12 10	20:50:24	5b371025-9750-4aef-8726-79606a8e521c	ReferenceError: sauyvjlhbjlhvuvkjhvyrdjhb is not defined
+2023 12 10	20:50:24	5a8a2ce4-bf73-48ba-aa24-e1d99b16d60c	ReferenceError: sauyvjlhbjlhvuvkjhvyrdjhb is not defined
+2023 12 10	20:50:28	d28120eb-dcca-4e30-af05-c123b7aac708	ReferenceError: sauyvjlhbjlhvuvkjhvyrdjhb is not defined
+2023 12 10	20:50:28	baf9d1f7-1264-493a-987c-1a70e29c9aaa	ReferenceError: sauyvjlhbjlhvuvkjhvyrdjhb is not defined
+2023 12 10	20:54:00	ed3223fd-0938-4b40-b8f2-95f2892f25a4	TypeError: Cannot read properties of undefined (reading 'split')
+2023 12 10	20:54:00	217589da-619b-4e73-b191-deb631f13d10	TypeError: Cannot read properties of undefined (reading 'split')
+2023 12 10	20:54:00	fdb413e0-5e5f-456e-b95e-c2a20dae4c71	TypeError: Cannot read properties of undefined (reading 'split')
+2023 12 11	00:08:00	4d682aea-765a-408e-9136-ccec197916cb	TypeError: rolesArray.include is not a function
+2023 12 11	00:08:00	90d66d48-748e-41f5-8bee-6b71d7800f68	TypeError: rolesArray.include is not a function
+2023 12 11	00:08:03	ae8d0074-4357-4204-a361-1698e2f71f37	TypeError: rolesArray.include is not a function
+2023 12 11	00:08:03	76630888-d7f6-4609-9dae-303d9824ee39	TypeError: rolesArray.include is not a function
+2023 12 11	00:08:28	f38f2095-3125-49de-831a-85899ce42fde	TypeError: rolesArray.include is not a function
+2023 12 11	00:08:28	87261957-78a2-465f-9e33-2f68ac3c24d5	TypeError: rolesArray.include is not a function
+2023 12 11	00:08:57	fa1a88a4-9562-461a-bebe-9a8fe5f8a0c8	TypeError: rolesArray.include is not a function
+2023 12 11	00:08:57	a5b3bbaf-3bb3-4cac-8bef-94d33195683a	TypeError: rolesArray.include is not a function
+2023 12 11	00:10:33	d622214b-e27f-4470-98e7-d7a3b4e9e4e8	TypeError: rolesArray.include is not a function
+2023 12 11	00:10:45	6010fa4a-3583-4351-b9b2-cc812f95cad0	TypeError: rolesArray.include is not a function
+2024 03 23	00:04:34	0d073f82-dd40-48cc-babe-9e32c836649d	Error: Not allowed by CORS
+2024 03 23	00:04:34	448baccc-6ba1-4197-9078-e4f9bd4fcfc6	Error: Not allowed by CORS
+2024 03 23	00:04:39	a6d387d2-e52b-44ee-8cc0-c40bb9240c49	Error: Not allowed by CORS
+2024 03 23	00:04:39	6c5f5b6b-6ffe-44df-9c47-b4a0a06d60c7	Error: Not allowed by CORS
+2024 03 23	00:06:24	05488bd4-ec02-46ff-860b-f7b8831e462b	Error: Not allowed by CORS
+2024 03 23	00:06:24	3bb57422-ce3b-43e6-b370-a0708e63178f	Error: Not allowed by CORS
