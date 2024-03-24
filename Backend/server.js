@@ -39,7 +39,7 @@ app.use(express.json());
 
 app.use(cookieParser());
 
-app.get('^/$|/index(.html)?',(req,res)=>
+/* app.get('^/$|/index(.html)?',(req,res)=>
 {
  //  res.sendFile('./views/index.html',{ root:__dirname });
      res.sendFile(path.join(__dirname ,'views','index.html'));
@@ -52,7 +52,7 @@ app.get('/old-page(.html)?',(req,res)=>
 { 
     res.redirect(301,'/new-page.html');  //302 by default
 
-}) 
+})  */
  
 
 
